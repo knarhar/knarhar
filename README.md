@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Knarik!
 
 ## 🚀 About Me  
-- 🎓 Recently applied for a part-time Bachelor's in Computer Science at **NPUA**.  
+- 🎓 Recently applied for a part-time Bachelor's in Information Technologies at **NPUA**.
+- 🎓 Gained Pre-Bachelor degree at Information Technologies at **NPUA** **College**.
 - 💻 Backend developer specializing in **C#** and **Django**.    
 - 🎨 I have a creative side with experience in **Figma**, **CorelDRAW**, **Photoshop**, **Illustrator**, and **InDesign**.  
 - 🛠 Passionate about building scalable solutions, like my **online courses platform** using **React**, **Django REST Framework**, and **ASP.NET**.  
