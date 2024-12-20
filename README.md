@@ -11,8 +11,8 @@
 
 ## 🖥 My Tech Stack  
 - **Languages**: C#, Python, JavaScript, SQL  
-- **Frameworks**: Django, ASP.NET, React, WPF  
-- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Frameworks**: ASP.NET, WPF, Django, React  
+- **Databases**: PostgreSQL, MySQL, SQLite, MS Server
 - **Tools**: Git, Redis, Blender (for 3D modeling)  
 - **Other Skills**: Data analysis, web scraping, testing  
 
