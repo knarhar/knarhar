@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 - 🎓 Part-time Bachelor's in Information Technologies at **NPUA**.
 - 🎓 Gained Pre-Bachelor degree at Information Technologies at **NPUA** **College**.
-- 💻 Backend developer specializing in **Django** and **.NET**.    
+- 💻 Backend developer specializing in **Django**, **Node.Js** and **.NET**.    
 - 🎨 I have a creative side with experience in **Figma**, **CorelDRAW**, **Photoshop**, **Illustrator**, and **InDesign**.  
 - 🛠 Passionate about building scalable solutions, like my **online courses platform** using **React**, **Django REST Framework**.  
 
