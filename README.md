@@ -1,11 +1,12 @@
 ### 👋 Hello, I'm Knarik!
 
-### 🚀 About Me
+### About Me
 - 🎓 Part-time Bachelor's student in Information Technologies at **NPUA**.
 - 💻 Backend Developer working with **Node.js, TypeScript, Python, and PostgreSQL**.
 - 🤖 Interested in **AI agents, LLMs, and cloud technologies**.
+- [Portfolio Website](https://porfolio.lirare.cc/)
 
-### 🖥️ Tech Stack
+### Tech Stack
 - **Languages:** TypeScript, JavaScript, Python, C#, SQL
 - **Frameworks:** Node.js, FastAPI, Django, React, ASP.NET Core
 - **Databases:** PostgreSQL, MySQL, SQLite, MS SQL Server
